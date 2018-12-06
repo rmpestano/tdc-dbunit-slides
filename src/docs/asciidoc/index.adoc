@@ -1,0 +1,50 @@
+= Testando sua camada de persistencia com [.gray]#Database Rider#
+Rafael Pestano
+2017-11-09
+:revnumber: {project-version}
+:example-caption!:
+ifndef::imagesdir[:imagesdir: images]
+ifndef::sourcedir[:sourcedir: ../java]
+:navigation:
+:menu:
+:status:
+:title-slide-background-image: db-testing.png
+:title-slide-background-size: contain
+:title-slide-transition: zoom
+:title-slide-transition-speed: fast
+:icons: font
+ 
+== Rafael Pestano
+
+Software Engineer at PROCERGS
+
+
+* http://twitter.com/realpestano/[@realpestano^] icon:twitter[]
+* http://github.com/rmpestano/[@rmpestano^] icon:github[]
+* http://rpestano.wordpress.com[Blog^] icon:wordpress[]
+
+image::rsjug_logo.png[height=150, width=150]
+
+
+[%notitle]
+== Intro
+
+[.stretch]
+image::rponte-dbunit.png[]
+
+== Perguntas
+
+[.stretch]
+image::questions.jpg[]
+
+== Referencias
+
+* https://github.com/rmpestano/tdc-dbunit/
+* https://github.com/database-rider/database-rider
+
+Slides: https://rmpestano.github.io/talks/slides/tdc-dbunit-slides/index.html
+
+[%notitle]
+== Thanks
+
+image::thanks.jpg[]
