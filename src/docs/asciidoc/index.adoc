@@ -32,6 +32,10 @@ image::rsjug_logo.png[height=150, width=150]
 [.stretch]
 image::rponte-dbunit.png[]
 
+== Show me the code!
+
+https://github.com/rmpestano/tdc-dbunit/tree/master/src/test/java/com/github/rmpestano/tdc/dbunit
+
 == Perguntas
 
 [.stretch]
@@ -42,7 +46,7 @@ image::questions.jpg[]
 * https://github.com/rmpestano/tdc-dbunit/
 * https://github.com/database-rider/database-rider
 
-Slides: https://rmpestano.github.io/talks/slides/tdc-dbunit-slides/index.html
+Slides: https://rmpestano.github.io/talks/slides/tdc-dbunit/index.html
 
 [%notitle]
 == Thanks
