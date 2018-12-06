@@ -47,6 +47,7 @@ image::questions.jpg[]
 * https://github.com/database-rider/database-rider
 
 Slides: https://rmpestano.github.io/talks/slides/tdc-dbunit/index.html
+Slides PDF: Slides: https://rmpestano.github.io/talks/slides/tdc-dbunit/index.pdf
 
 [%notitle]
 == Thanks
